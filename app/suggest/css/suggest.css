@@ -1,0 +1,25 @@
+.typeahead-wrapper {
+  height: 45px;
+  background-color: #423D5D; }
+  .typeahead-wrapper .input-group {
+    padding-top: 5px; }
+    .typeahead-wrapper .input-group .input-group-addon {
+      background: transparent;
+      border: none;
+      color: #A29EB5; }
+    .typeahead-wrapper .input-group .ms {
+      background-color: #423D5D !important;
+      border: none;
+      color: #fff; }
+    .typeahead-wrapper .input-group .form-control:focus {
+      box-shadow: none; }
+
+.item {
+  padding: 5px 5px;
+  color: #404040; }
+  .item .name {
+    font-size: 20px; }
+  .item .flagStyle {
+    width: 20px; }
+  .item .fa {
+    color: #888888; }
