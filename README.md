@@ -1,6 +1,6 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/uzairpm/angular-typeahead)
 
-This project assignment for TASC outsourcing demonstrates an angular typeahead 
+This project demonstrates an angular typeahead 
 component used to lookup results based on name or policy number.
 
 ### Features
